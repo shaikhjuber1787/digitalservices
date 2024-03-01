@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Business website for Online Multi Services - Form Filling, PAN Card Services, Passport Services, Gazette Certificate & Other Licensing Services.
